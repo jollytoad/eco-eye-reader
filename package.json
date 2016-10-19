@@ -1,0 +1,22 @@
+{
+  "name": "eco-eye-reader",
+  "version": "1.0.0",
+  "description": "Take readings from Eco-Eye SmartPV energy monitor via its USB cable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jollytoad/eco-eye-reader.git"
+  },
+  "author": "Mark Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jollytoad/eco-eye-reader/issues"
+  },
+  "homepage": "https://github.com/jollytoad/eco-eye-reader#readme",
+  "dependencies": {
+    "serialport": "^4.0.3"
+  }
+}
